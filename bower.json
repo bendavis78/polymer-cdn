@@ -1,0 +1,7 @@
+{
+  "name": "polymer-cdn",
+  "dependencies": {
+    "paper-elements": "Polymer/paper-elements#master",
+    "core-elements": "Polymer/core-elements#master"
+  }
+}

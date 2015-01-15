@@ -1,0 +1,4 @@
+For use with rawgit.com cdn. Example:
+
+    <link rel="import" href="//cdn.rawgit.com/bendavis78/polymer-cdn/components/polymer/polymer.html">
+    <link rel="import" href="//cdn.rawgit.com/bendavis78/polymer-cdn/components/paper-button/paper-button.html">
